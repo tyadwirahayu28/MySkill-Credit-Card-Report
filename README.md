@@ -47,8 +47,9 @@ Proyek ini bertujuan untuk menganalisis data pelanggan kartu kredit dan memberik
 
 ## 📄 File yang Disertakan
 
-- `MySkill_Credit_Card_Report.pdf` – Laporan ringkasan dan insight visual
-- `screenshot.png` – Tampilan dashboard dari Looker Studio
+- [`MySkill_Credit_Card_Report.pdf`](MySkill_Credit_Card_Report.pdf) – Tampilan dashboard dari Looker Studio pdf ver.
+- [`Proyek_Portofolio_Analisis_Data_Kartu_Kredit_MySkill.pdf`](Proyek_Portofolio_Analisis_Data_Kartu_Kredit_MySkill.pdf.pdf) – Laporan ringkasan dan insight visual
+- [`raw_data_credit_card_1.csv`](raw_data_credit_card_1.csv) – Raw data
 
 
 ## 👩‍💻 Tentang Saya
