@@ -33,7 +33,16 @@ Proyek ini bertujuan untuk menganalisis data pelanggan kartu kredit dan memberik
 
 ## 🖼️ Cuplikan Dashboard
 
-![Dashboard Screenshot](screenshot.png)
+  Dashboard Overview
+  [![Screenshot 1](screenshot1.png)](screenshot1.png)
+  Customer Demographic
+  [![Screenshot 2](screenshot2.png)](screenshot2.png)
+  Customer Revenue Profile
+  [![Screenshot 3](screenshot3.png)](screenshot3.png)
+  Customer Revenue Profile
+  [![Screenshot 4](screenshot4.png)](screenshot4.png)
+  Customer Risk Profile
+  [![Screenshot 5](screenshot5.png)](screenshot5.png)
 
 
 ## 📄 File yang Disertakan
